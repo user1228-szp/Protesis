@@ -1,2 +1,0 @@
-# Protesis
-Protesis_code
