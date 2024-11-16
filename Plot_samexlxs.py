@@ -1,3 +1,5 @@
+#muestra las graficas de un mismo excel, por columna
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
