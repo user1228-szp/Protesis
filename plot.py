@@ -1,3 +1,4 @@
+#plot just one signal
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
@@ -17,3 +18,4 @@ plt.ylabel('relaxed_hand')
 plt.title('time VS relaxed_hand')
 
 plt.show()
+
